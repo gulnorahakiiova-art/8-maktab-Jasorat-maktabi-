@@ -1,0 +1,6 @@
+{
+  "name": "Namangan Mingbuloq 8-Maktab",
+  "description": "Namangan viloyati Mingbuloq tumani 8-sonli umumiy o'rta ta'lim maktabi — Jasorat Maktabi, chuqurlashtirilgan Ingliz tili, Fizika, Matematika va Harbiy tayyorgarlik ta'lim maskani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
